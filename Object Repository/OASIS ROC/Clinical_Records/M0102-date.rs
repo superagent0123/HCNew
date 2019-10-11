@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>M0102-date</name>
+   <tag></tag>
+   <elementGuidId>eb4fabd0-59e2-4611-88c7-8ab8d2b8c343</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#m0102_physn_ordrd_socroc_dt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#m0102_physn_ordrd_socroc_dt</value>
+   </webElementProperties>
+</WebElementEntity>
