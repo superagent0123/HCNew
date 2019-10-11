@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Emergency Service</name>
+   <tag></tag>
+   <comment>Login account
+Go to Emergency Service Page
+Open the form for adding emergency service
+Click Add Category button
+Cancel category
+Add a category
+Delete the category
+Add category again
+Edit the category
+Set text for other fields and save
+Set text for name field
+discard changes then cancel
+discard changes and confirm
+Sign out</comment>
+   <testCaseGuid>658d8297-68a0-4adc-94ab-b30b98849a83</testCaseGuid>
+</TestCaseEntity>

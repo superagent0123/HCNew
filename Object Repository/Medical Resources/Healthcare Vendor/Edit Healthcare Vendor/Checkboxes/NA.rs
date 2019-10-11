@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NA</name>
+   <tag></tag>
+   <elementGuidId>d3f6c3e7-d0ab-46af-9dc6-c667c9cbefb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;content&quot;]/data/div[2]/div/form/fieldset/div/table/tbody/tr[13]/td[2]/div/label[3]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/data/div[2]/div/form/fieldset/div/table/tbody/tr[13]/td[2]/div/label[3]/input</value>
+   </webElementProperties>
+</WebElementEntity>

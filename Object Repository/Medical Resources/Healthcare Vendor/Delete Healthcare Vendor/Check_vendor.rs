@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Check_vendor</name>
+   <tag></tag>
+   <elementGuidId>e092e650-9aa9-472d-9d65-f78d073cf89d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;content&quot;]/data/div/div[2]/div/table/tbody/tr[2]/td[1]/div[1]/div[1]/label/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/data/div/div[2]/div/table/tbody/tr[2]/td[1]/div[1]/div[1]/label/input</value>
+   </webElementProperties>
+</WebElementEntity>

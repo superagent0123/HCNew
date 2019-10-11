@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Healthcare Vendor</name>
+   <tag></tag>
+   <comment>Login
+Go to Healthcare Vendor Page
+Edit a healthcare vendor</comment>
+   <testCaseGuid>cfb9aa19-b1d3-4392-90df-76c70e2a919b</testCaseGuid>
+</TestCaseEntity>

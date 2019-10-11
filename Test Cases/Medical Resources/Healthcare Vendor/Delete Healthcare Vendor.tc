@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Healthcare Vendor</name>
+   <tag></tag>
+   <comment>Login
+Go to Healthcare Vendor Page
+Select Vendor
+Delete Vendor</comment>
+   <testCaseGuid>75ebd771-0eac-4f30-8d2d-c0a0d7651207</testCaseGuid>
+</TestCaseEntity>

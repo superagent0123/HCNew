@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Healthcare Vendor</name>
+   <tag></tag>
+   <comment>Login account
+Go to Healthcare Vendor Page
+Click New Healthcare Vendor button
+Type Healthcare Vendor Name
+Discard changes then cancel
+Discard changes then confirm
+Click add vendor type then cancel
+Click add vendor type then save
+Delete selected vendor type then cancel
+Delete selected vendor type then confirm
+Add vendor type again
+Edit vendor type then cancel
+Edit vendor type then save
+Fill-up other fields
+Add Product then cancel
+Add Product then save
+Delete Product then cancel
+Delete Product then confirm
+Add Product again
+Edit Product then cancel
+Edit Product then confirm
+Checkboxes
+fill-up remaining fields
+Save All
+Reload Page
+View Added Heallthcare Vendor</comment>
+   <testCaseGuid>7f062f3c-43b5-4b99-91fd-1e5b4adbdc0e</testCaseGuid>
+</TestCaseEntity>
